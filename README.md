@@ -46,5 +46,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 <hr>
+<h3 align="left">My stats:</h3>
 <a href="http://www.github.com/kimovchanin"><img src="https://github-readme-stats.vercel.app/api?username=kimovchanin&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=00FF00&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kimovchanin's GitHub stats" /></a>
 <a href="http://www.github.com/kimovchanin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kimovchanin&stroke=00FF00&background=1c1917&ring=FF8C00&fire=FF8C00&currStreakNum=00FF00&currStreakLabel=FF8C00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" /></a>
