@@ -1,6 +1,7 @@
 <h1 align="left">>Yo! I am KIMovchanin</h1>
 <h3 align="left">About me:</h3>
 I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.
+
 - 👋 My name: [Igor]
 - 🎓 Age: [21]
 - 🌍 From: [Moscow, Russia]
