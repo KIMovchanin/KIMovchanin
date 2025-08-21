@@ -1,10 +1,8 @@
-<h1 align="left" style="color:#00FF00">>Yo! I am KIMovchanin</h1>
+<h1 align="left">>Yo! I am KIMovchanin</h1>
 <h3 align="left">I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.</h3>
 
-- 🌱 I’m currently learning **Pandas, Matplotlib, Seaborn, Django, scikit-learn, PyTorch, TensorFlow, Golang.**
-
+- 🌱 <span style="color:#00FF00">I’m currently learning **Pandas, Matplotlib, Seaborn, Django, scikit-learn, PyTorch, TensorFlow, Golang.**</span>
 - 📫 How to reach me **kondr2004k@gmail.com**
-
 - ⚡ Fun fact **I really want a cybernetic arm and a motorcycle from Akira.**
 
 <h3 align="left">My social networks:</h3>
