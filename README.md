@@ -16,7 +16,7 @@
 <hr>
 <h3 align="left">Technologies I work with:</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif" alt="Tech GIF" width="400" />
+<img align="right" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif" alt="Tech GIF" width="300" />
 
 <p align="left">
   <strong>Languages:</strong><br/>
