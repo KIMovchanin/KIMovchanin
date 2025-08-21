@@ -1,15 +1,20 @@
 <h1 align="left">> Yo! I am KIMovchanin</h1>
-<p align="right"><img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" alt="GIF" width="300"></p>
-<h3 align="left">About me:</h3>
-I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.
 
-- 👋 My name: *[ Igor ]*
-- 🎓 Age: *[ 21 ]*
-- 🌍 From: *[ Moscow, Russia ]*
-- 💻 Specialization: *[ Data Science & Machine Learning ]*
-- 🏫 Education: *[ Graduated from college - Information systems and programming ]*
-- 📫 Reach me at: *[ kondr2004k@gmail.com ] (or any of the social networks below)*
-- ⚡ Fun fact: *[ I really want a cybernetic arm and a motorcycle from Akira ]*
+<h3 align="left">About me:</h3>
+
+<img align="right" src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" alt="GIF" width="300" />
+
+<p>I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.</p>
+
+<ul>
+  <li>👋 My name: <em>[ Igor ]</em></li>
+  <li>🎓 Age: <em>[ 21 ]</em></li>
+  <li>🌍 From: <em>[ Moscow, Russia ]</em></li>
+  <li>💻 Specialization: <em>[ Data Science &amp; Machine Learning ]</em></li>
+  <li>🏫 Education: <em>[ Graduated from college - Information systems and programming ]</em></li>
+  <li>📫 Reach me at: <em><a href="mailto:kondr2004k@gmail.com">kondr2004k@gmail.com</a></em> (or any of the social networks below)</li>
+  <li>⚡ Fun fact: <em>[ I really want a cybernetic arm and a motorcycle from Akira ]</em></li>
+</ul>
 
 <hr>
 <h3 align="left">Technologies I work with::</h3>
