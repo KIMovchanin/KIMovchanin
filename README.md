@@ -1,4 +1,4 @@
-<h1 align="left" style="color:DarkCyan;">>Yo! I am KIMovchanin</h1>
+<h1 align="left" style="color:#00FF00">>Yo! I am KIMovchanin</h1>
 <h3 align="left">I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.</h3>
 
 - 🌱 I’m currently learning **Pandas, Matplotlib, Seaborn, Django, scikit-learn, PyTorch, TensorFlow, Golang.**
