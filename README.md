@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Pandas, Matplotlib, Seaborn, Django, scikit-learn, PyTorch, TensorFlow, Golang.**
 - 📫 How to reach me **kondr2004k@gmail.com**
 - ⚡ Fun fact **I really want a cybernetic arm and a motorcycle from Akira.**
-
+<hr>
 <h3 align="left">My social networks:</h3>
 <p align="left">
 <a href="https://t.me/KIMovchanin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/KIMovchanin" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 <a href="https://leetcode.com/u/kimovchanin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kimovchanin/" height="30" width="40" /></a>
 <a href="https://m.vk.com/kondratyk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="kondratyk" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Technologies I work with::</h3>
 <p align="left">   
   <p>Languages:</p>
