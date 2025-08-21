@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="KIMovchanin" height="30" width="40" /></a>
+<a href="https://t.me/KIMovchanin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/KIMovchanin" height="30" width="40" /></a>
 <a href="https://twitter.com/kim_7_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kim_7_8" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kimovchanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kimovchanin" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kimovchanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kimovchanin" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kimovchanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kimovchanin" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kim_ovchanin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kim_ovchanin/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/kimovchanin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kimovchanin/" height="30" width="40" /></a>
