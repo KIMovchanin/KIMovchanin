@@ -48,8 +48,8 @@
 </p>
 <hr>
 
-<h3 align="left">My social networks:</h3>
-<p align="left">
+<h3 align="center">My social networks:</h3>
+<p align="center">
 <a href="https://t.me/KIMovchanin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/KIMovchanin" height="30" width="40" /></a>
 <a href="https://twitter.com/kim_7_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kim_7_8" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/kimovchanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kimovchanin" height="30" width="40" /></a>
@@ -59,7 +59,7 @@
 <a href="https://m.vk.com/kondratyk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="kondratyk" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">My stats:</h3>
+<h3 align="center">My stats:</h3>
 <a href="http://www.github.com/kimovchanin"><img src="https://github-readme-stats.vercel.app/api?username=kimovchanin&show_icons=true&hide=&count_private=true&title_color=FF8C00&text_color=00FF00&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kimovchanin's GitHub stats" /></a>
 <a href="http://www.github.com/kimovchanin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kimovchanin&stroke=00FF00&background=1c1917&ring=FF8C00&fire=FF8C00&currStreakNum=00FF00&currStreakLabel=FF8C00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" /></a>
 
