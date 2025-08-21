@@ -13,6 +13,7 @@
 <a href="https://www.facebook.com/kimovchanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kimovchanin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kim_ovchanin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kim_ovchanin/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/kimovchanin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kimovchanin/" height="30" width="40" /></a>
+<a href="https://m.vk.com/kondratyk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" alt="kondratyk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies I work with::</h3>
