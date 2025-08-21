@@ -1,4 +1,5 @@
-<h1 align="left">>Yo! I am KIMovchanin</h1>
+<h1 align="left">> Yo! I am KIMovchanin</h1>
+<img src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" alt="GIF" width="600">
 <h3 align="left">About me:</h3>
 I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.
 
