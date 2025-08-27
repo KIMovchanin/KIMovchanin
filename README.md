@@ -21,7 +21,7 @@
 <p align="left">
   <strong>Languages:</strong><br/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<!--   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  -->
   
   <br/><strong>Libraries and Frameworks:</strong><br/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -74,13 +74,13 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="http://www.github.com/kimovchanin">
+<!--   <a href="http://www.github.com/kimovchanin">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=kimovchanin&stroke=00FF00&background=1c1917&ring=FF8C00&fire=FF8C00&currStreakNum=00FF00&currStreakLabel=FF8C00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true"
       alt="GitHub Streak"
       height="180"
     />
-  </a>
+  </a> -->
 </p>
 
 <!-- [![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=KIMovchanin)](https://github.com/KIMovchanin/github-readme-activity-graph) -->
