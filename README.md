@@ -7,9 +7,11 @@
   <li>👋 My name: <em>[ Igor ]</em></li>
   <li>🎓 Age: <em>[ 21 ]</em></li>
   <li>🌍 From: <em>[ Moscow, Russia ]</em></li>
-  <li>💻 Specialization: <em>[ Data Science &amp; Machine Learning ]</em></li>
+  <li>💻 Specialization: <em>[ Data Science, Machine Learning, Python Developer ]</em></li>
   <li>🏫 Education: <em>[ Graduated from college - Information systems and programming ]</em></li>
-  <li>📫 Reach me at: <em><a href="mailto:kondr2004k@gmail.com">[ kondr2004k@gmail.com ]</a></em> (or any of the social networks below)</li>
+  <li>💼 Work: <em>[ Python Automation Developer ]</em></li>
+  <li>🏢 Company: <em> <a href=https://msk.rt.ru/>[ Rostelecom ]</a></em></li>
+  <li>📫 Reach me at: <em><a href="mailto:work4anlyt@gmail.com">[ work4anlyt@gmail.com ]</a></em> (or any of the social networks below)</li>
   <li>⚡ Fun fact: <em>[ I really want a cybernetic arm and a motorcycle from Akira ]</em></li>
 </ul>
 
@@ -21,7 +23,7 @@
 <p align="left">
   <strong>Languages:</strong><br/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!--   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  -->
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   
   <br/><strong>Libraries and Frameworks:</strong><br/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -31,6 +33,9 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180802/xze/b9a6a3db15820d8ca55218eabcef930f.webp" alt="flask" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://wiki.python.org/moin/PyQt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/246px-Python_and_Qt.svg.png?20100415095700" alt="PyQt" width="40" height="40"/> </a>
+
   
   <br/><strong>DB:</strong><br/>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
