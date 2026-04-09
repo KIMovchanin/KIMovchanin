@@ -12,8 +12,8 @@
   <li>💻 Specialization: <em>[ Data Science, Machine Learning, Python Developer ]</em></li>
   <li>🏫 Education: <em>[ Graduated from college - Information systems and programming ]</em></li>
   <li>💼 Work: <em>[ Python Automation Developer ]</em></li>
-  <li>🏢 Company: <em> <a href=https://msk.rt.ru/>[ Rostelecom ]</a></em></li>
-  <li>📫 Reach me at: <em><a href="mailto:work4anlyt@gmail.com">[ work4anlyt@gmail.com ]</a></em> (or any of the social networks below)</li>
+  <!-- <li>🏢 Company: <em> <a href=https://msk.rt.ru/>[ Rostelecom ]</a></em></li> -->
+  <li>📫 Reach me at: <em><a href="mailto:kondr2004k@gmail.com">[ kondr2004k@gmail.com ]</a></em> (or any of the social networks below)</li>
   <li>⚡ Fun fact: <em>[ I really want a cybernetic arm and a motorcycle from Akira ]</em></li>
 </ul>
 
