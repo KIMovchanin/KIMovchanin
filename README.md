@@ -8,10 +8,11 @@
 <ul>
   <li>👋 My name: <em>[ Igor ]</em></li>
   <li>🎓 Age: <em>[ 21 ]</em></li>
-  <li>🌍 From: <em>[ Moscow, Russia ]</em></li>
+  <li>🌍 From: <em>[ Kutaisi, Georgia ]</em></li>
   <li>💻 Specialization: <em>[ Data Science, Machine Learning, Python Developer ]</em></li>
   <li>🏫 Education: <em>[ Graduated from college - Information systems and programming ]</em></li>
-  <li>💼 Work: <em>[ Python Automation Developer ]</em></li>
+  <li>💼 Work: <em>[ Open to offers ]</em></li>
+  <li>✈️ Relocation: <em>[ Open to relocation ]</em></li>
   <!-- <li>🏢 Company: <em> <a href=https://msk.rt.ru/>[ Rostelecom ]</a></em></li> -->
   <li>📫 Reach me at: <em><a href="mailto:kondr2004k@gmail.com">[ kondr2004k@gmail.com ]</a></em> (or any of the social networks below)</li>
   <li>⚡ Fun fact: <em>[ I really want a cybernetic arm and a motorcycle from Akira ]</em></li>
