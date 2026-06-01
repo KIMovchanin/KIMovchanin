@@ -3,13 +3,14 @@
 <img align="right" src="https://i.pinimg.com/originals/22/e4/94/22e49430a9a271ca1eaef7ea89ddd858.gif" alt="GIF" width="300" />
 <!-- <p>I specialize in the development and application of machine learning and deep learning models, including neural networks. I am actively developing my skills in the fields of Data Science and ML.</p>
  -->
-<p>I am a Python developer at Rostelecom, creating automation tools and VBA scripts. My main interest lies in Data Science and Machine Learning, where I focus on developing and applying machine and deep learning models, including neural networks.</p>
+<p>I am a rapidly growing backend developer. I am currently diving deep into the field of infrastructure. I am interested in the full development and support lifecycle of large, high-traffic systems.</p>
+<p>Right now, I am focused on learning the following stack: Go, PostgreSQL, Redis, REST API, Docker, and Kubernetes.</p>
 
 <ul>
   <li>👋 My name: <em>[ Igor ]</em></li>
   <li>🎓 Age: <em>[ 21 ]</em></li>
   <li>🌍 From: <em>[ Kutaisi, Georgia ]</em></li>
-  <li>💻 Specialization: <em>[ Data Science, Machine Learning, Python Developer ]</em></li>
+  <li>💻 Specialization: <em>[ Backend developer ]</em></li>
   <li>🏫 Education: <em>[ Graduated from college - Information systems and programming ]</em></li>
   <li>💼 Work: <em>[ Open to offers ]</em></li>
   <li>✈️ Relocation: <em>[ Open to relocation ]</em></li>
